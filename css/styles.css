@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+.logboek3{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    display: grid;
+}
+
+.reflectie{
+    text-align: center;
+}
+
+.feedback{
+    text-align: center;
+}
+
+.feedback2{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(40, 197, 184);
+}
